@@ -1,0 +1,1 @@
+Colorization Progress Visualizer: A tool designed to visualize the step-by-step process of image colorization, showing intermediate stages from grayscale to full-color output. The GUI allows users to upload images and see the progression of colorization in real-time.
